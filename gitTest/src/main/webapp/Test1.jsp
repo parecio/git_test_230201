@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>test1.jsp</h1>
-<h2>gitTest</h2>
+<h2>git edit</h2>
 
 <h2>eclipce update</h2>
 
